@@ -1,0 +1,8 @@
+title: Html5-android-pattern-lockscreen
+description: A proof of concept of the Android Pattern LockScreen using the Canvas API (w/ Kinetic.js)
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
